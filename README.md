@@ -20,7 +20,7 @@
 - Directional Haptic Vibration Notification System:
   - HRS 01- We constructed a 3d Model that went around the helmet from the back; at either end of the semi-circular housing, we mounted a Haptic Motor. Individual haptic motor drivers with common I2C buses controlled these motors. The devices were selected using an enable line(**Met**).
 
-  ![Haptic Motors](/images/Haptic%20Motors.jpg)
+  ![Haptic Motors](/images/Haptic_Motors.jpg)
 
 - Blind Spot Monitoring System:
   - HRS 02- Designed mounting for Sharp IR sensors, which were polled when a turn signal was active. The IR sensor used had an analog output, which was converted to a digital signal using Opam as a comparator, and the distance for detection was set using potentiometers(**Met**).
