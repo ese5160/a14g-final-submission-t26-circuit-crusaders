@@ -27,7 +27,7 @@
 
   - HRS 02- Designed mounting for Sharp IR sensors, which were polled when a turn signal was active. The IR sensor used had an analog output, which was converted to a digital signal using Opam as a comparator, and the distance for detection was set using potentiometers(**Met**).
 
-![IR sensor]()
+![IR sensor](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/IRsensors.jpg)
 
 - Accelerometer System:
 
@@ -46,7 +46,7 @@
 
   - HRS 06- We decided to use a single LED strip and control the LEDs on the strip to indicate Left and right turns and brake(**Met**).
 
-![LED Strip]()
+![LED Strip](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Back%20with%20with%20Helmet.jpg)
 
 ### Software Requirements
 
@@ -91,5 +91,6 @@
   - SRS 12 - The system shall blink the brake LED strip when the rider is stationary and turn solid when in motion. stationary and motion states will be determined via the accelerometer(**Met**).
 
     - We detected deceleration instead of stopping
+![LEd Strip blinking]
 
 ## 4. Project Photos & Screenshots
