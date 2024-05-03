@@ -27,7 +27,12 @@
 
 - Accelerometer System:
   - HRS 03- An On-Board accelerometer was included, which polled all the axes. The z-axis data was used to detect the deceleration of the rider, while other axes were used to detect theft in lock mode and fun mode to change the LED strip light(**Met**).
-  ![Accelerometer](/assets/57740824/57eadb7c-09f6-4b4c-99be-9184fafd9fe6)
+ 
+
+
+https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/c87559a6-25c6-4372-be17-2f7c5e155280
+
+
 
 - Bluetooth Module:
   - HRS 04- We dropped installation of the Bluetooth module due to the limited time and effort required for developing mutex-protected UART communication and the requirement for a Mobile App(**Not Met**).
@@ -64,6 +69,8 @@
 - Indication LED System:
   - SRS 11 - The system shall turn left and right LED strips to blink orange during a respective turn signal(**Met**).
   - SRS 12 - The system shall blink the brake LED strip when the rider is stationary and turn solid when in motion. stationary and motion states will be determined via the accelerometer(**Met**).
+ 
+https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/da8a2328-48fe-4e5c-a39c-3381b75492b9
 
 ## 4. Project Photos & Screenshots
 
