@@ -121,11 +121,11 @@
 
 #### Detailed
 
-![Detailed](/images/detailed_block_diagram_updated.png)
+![Detailed](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/detailed_block_diagram_updated.png)
 
 ### Inside Detkin Lab
 
-![Inside Detkin Lab](/assets/57740824/f91eb674-2004-40d3-aa62-ca26d857cfa0)
+
 
 ### 3D Model
 
