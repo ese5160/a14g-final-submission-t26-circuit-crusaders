@@ -92,6 +92,4 @@
 
     - We detected deceleration instead of stopping
 
-
-
 ## 4. Project Photos & Screenshots
