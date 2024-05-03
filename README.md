@@ -19,20 +19,18 @@
 
 - Directional Haptic Vibration Notification System:
   - HRS 01- We constructed a 3d Model that went around the helmet from the back; at either end of the semi-circular housing, we mounted a Haptic Motor. Individual haptic motor drivers with common I2C buses controlled these motors. The devices were selected using an enable line(**Met**).
+
   ![Haptic Motors](/images/Haptic%20Motors.jpg)
 
 - Blind Spot Monitoring System:
   - HRS 02- Designed mounting for Sharp IR sensors, which were polled when a turn signal was active. The IR sensor used had an analog output, which was converted to a digital signal using Opam as a comparator, and the distance for detection was set using potentiometers(**Met**).
+
   ![IR sensor](/images/IRsensors.jpg)
 
 - Accelerometer System:
   - HRS 03- An On-Board accelerometer was included, which polled all the axes. The z-axis data was used to detect the deceleration of the rider, while other axes were used to detect theft in lock mode and fun mode to change the LED strip light(**Met**).
  
-
-
 https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/c87559a6-25c6-4372-be17-2f7c5e155280
-
-
 
 - Bluetooth Module:
   - HRS 04- We dropped installation of the Bluetooth module due to the limited time and effort required for developing mutex-protected UART communication and the requirement for a Mobile App(**Not Met**).
@@ -42,7 +40,8 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 - Indication LED System:
   - HRS 06- We decided to use a single LED strip and control the LEDs on the strip to indicate Left and right turns and brake(**Met**).
-  ![LED Strip](/images/Back%20with%20with%20Helmet.jpg)
+
+![LED Strip](/images/Back%20with%20with%20Helmet.jpg)
 
 ### Software Requirements
 
