@@ -41,7 +41,7 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 - Indication LED System:
   - HRS 06- We decided to use a single LED strip and control the LEDs on the strip to indicate Left and right turns and brake(**Met**).
 
-![LED Strip](/images/Back%20with%20with%20Helmet.jpg)
+![LED Strip](/images/Back_with_with_Helmet.jpg)
 
 ### Software Requirements
 
@@ -75,13 +75,13 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 ### Final Project
 
-![Right Back](/images/Right%20Back%20view.jpg)
+![Right Back](/images/Right_Back_view.jpg)
 
 ![Back](/images/Back.jpg)
 
-![Side View](/images/Back%20with%20with%20Helmet.jpg)
+![Side View](/images/Back_with_with_Helmet.jpg)
 
-![Front View](/images/Front%20View%20Helmate.jpg)
+![Front View](/images/Front_View_Helmate.jpg)
 
 ### PCBA
 
@@ -97,15 +97,15 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 ### Altium 2D View
 
-![Top](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/2D%20View%20Top.png)
+![Top](/images/2D_View_Top.png)
 
-![Bottom](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/2D%20View%20Bottom.png)
+![Bottom](/images/2D_View_Bottom.png)
 
 ### Altium 3D View
 
-![Top](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/3D%20View%20Top.png)
+![Top](/images/3D_View_Top.png)
 
-![Bottom](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/3D%20View%20Bottom.png)
+![Bottom](/images/3D_View_Bottom.png)
 
 ### Node-Red Dashboard
 
@@ -113,21 +113,21 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 ### Node-Red Backend
 
-![First](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Navigation_Mode_Nodered.png)
+![First](/images/Navigation_Mode_Nodered.png)
 
-![Second](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Firmware%20Acc%20NodeRed.png)
+![Second](/images/Firmware_Acc_NodeRed.png)
 
-![Third](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Lock%20ALert%20and%20Obstacle%20Node_Red.png)
+![Third](/images/Lock_ALert_and_Obstacle_Node_Red.png)
 
 ### Block Diagram
 
 #### Simple
 
-![Simple](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/simple_block_diagram_updated.png)
+![Simple](/images/simple_block_diagram_updated.png)
 
 #### Detailed
 
-![Detailed](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/detailed_block_diagram_updated.png)
+![Detailed](/images/detailed_block_diagram_updated.png)
 
 ### Inside Detkin Lab
 
@@ -141,6 +141,6 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 **3D printed object courtesy of the University of Pennsylvania Libraries' Holman Biotech Commons**
 
-![3D Model](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/3D%20model.jpeg)
+![3D Model](/images/3D_model.jpeg)
 
 ![3d Modeling](/images/3dModel.jpg)
