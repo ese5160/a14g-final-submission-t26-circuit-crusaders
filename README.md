@@ -92,15 +92,9 @@
 
     - We detected deceleration instead of stopping
 
-
-
 https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/57eadb7c-09f6-4b4c-99be-9184fafd9fe6
 
-
-
 https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/eb0d89f8-6c4c-473c-ad8d-e57339b75fd6
-
-
 
 ## 4. Project Photos & Screenshots
 
@@ -116,9 +110,9 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 ### PCBA
 
-![Top]()
+![Top](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Front_Circuit.jpg)
 
-![Bottom]()
+![Bottom](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Circuit_Bottom.jpg)
 
 ### Thermal Image
 
@@ -168,4 +162,4 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 **3D printed object courtesy of the University of Pennsylvania Libraries' Holman Biotech Commons**
 
-![3D Model]()
+![3D Model](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/3D%20model.jpeg)
