@@ -160,6 +160,10 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 ![Detailed](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/detailed_block_diagram_updated.png)
 
+### Inside Detkin Lab
+
+https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/f91eb674-2004-40d3-aa62-ca26d857cfa0
+
 ### 3D Model
 
 **3D printed object courtesy of the University of Pennsylvania Libraries' Holman Biotech Commons**
