@@ -143,3 +143,5 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 **3D printed object courtesy of the University of Pennsylvania Libraries' Holman Biotech Commons**
 
 ![3D Model](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/3D%20model.jpeg)
+
+![3d Modeling](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/detailed_block_diagram_updated.png)
