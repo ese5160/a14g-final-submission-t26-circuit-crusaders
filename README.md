@@ -91,6 +91,15 @@
   - SRS 12 - The system shall blink the brake LED strip when the rider is stationary and turn solid when in motion. stationary and motion states will be determined via the accelerometer(**Met**).
 
     - We detected deceleration instead of stopping
-![LEd Strip blinking]
+
+
+
+https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/57eadb7c-09f6-4b4c-99be-9184fafd9fe6
+
+
+
+https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/eb0d89f8-6c4c-473c-ad8d-e57339b75fd6
+
+
 
 ## 4. Project Photos & Screenshots
