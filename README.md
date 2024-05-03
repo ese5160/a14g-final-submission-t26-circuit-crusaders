@@ -33,8 +33,7 @@
 https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/c87559a6-25c6-4372-be17-2f7c5e155280
 
 <video controls="" width="800" height="500" muted="" loop="" autoplay="">
-  <source src="https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/Part2_Saurabh/images/braking.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<source src="https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/Part2_Saurabh/images/braking.mp4" type="video/mp4">
 </video>
 
 - Bluetooth Module:
