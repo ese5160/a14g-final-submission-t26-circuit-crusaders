@@ -79,45 +79,45 @@
 
 ### PCBA
 
-![Top](/images/Front_Circuit.jpg)
+![Top](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Front_Circuit.jpg)
 
-![Bottom](/images/Circuit_Bottom.jpg)
+![Bottom](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Circuit_Bottom.jpg)
 
 ### Thermal Image
 
-![Thermal](/images/5V_1300mA_Load.jpeg)
+![Thermal](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/5V_1300mA_Load.jpeg)
 
-![Thermal 1](/images/Thermal.jpeg)
+![Thermal 1](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Thermal.jpeg)
 
 ### Altium 2D View
 
-![Top](/images/2D%20View%20Top.png)
+![Top](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/2D%20View%20Top.png)
 
-![Bottom](/images/2D%20View%20Bottom.png)
+![Bottom](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/2D%20View%20Bottom.png)
 
 ### Altium 3D View
 
-![Top](/images/3D%20View%20Top.png)
+![Top](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/3D%20View%20Top.png)
 
-![Bottom](/images/3D%20View%20Bottom.png)
+![Bottom](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/3D%20View%20Bottom.png)
 
 ### Node-Red Dashboard
 
-![Dashboard](/images/Helmate.png)
+![Dashboard](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Helmate.png)
 
 ### Node-Red Backend
 
-![First](/images/Navigation_Mode_Nodered.png)
+![First](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Navigation_Mode_Nodered.png)
 
-![Second](/images/Firmware%20Acc%20NodeRed.png)
+![Second](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Firmware%20Acc%20NodeRed.png)
 
-![Third](/images/Lock%20ALert%20and%20Obstacle%20Node_Red.png)
+![Third](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Lock%20ALert%20and%20Obstacle%20Node_Red.png)
 
 ### Block Diagram
 
 #### Simple
 
-![Simple](/images/simple_block_diagram_updated.png)
+![Simple](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/simple_block_diagram_updated.png)
 
 #### Detailed
 
@@ -131,4 +131,4 @@
 
 **3D printed object courtesy of the University of Pennsylvania Libraries' Holman Biotech Commons**
 
-![3D Model](/images/3D%20model.jpeg)
+![3D Model](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/3D%20model.jpeg)
