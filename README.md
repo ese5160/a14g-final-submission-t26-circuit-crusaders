@@ -19,20 +19,18 @@
 
 - Directional Haptic Vibration Notification System:
   - HRS 01- We constructed a 3d Model that went around the helmet from the back; at either end of the semi-circular housing, we mounted a Haptic Motor. Individual haptic motor drivers with common I2C buses controlled these motors. The devices were selected using an enable line(**Met**).
-  ![Haptic Motors](/images/Haptic%20Motors.jpg)
+
+  ![Haptic Motors](/images/Haptic_Motors.jpg)
 
 - Blind Spot Monitoring System:
   - HRS 02- Designed mounting for Sharp IR sensors, which were polled when a turn signal was active. The IR sensor used had an analog output, which was converted to a digital signal using Opam as a comparator, and the distance for detection was set using potentiometers(**Met**).
+
   ![IR sensor](/images/IRsensors.jpg)
 
 - Accelerometer System:
   - HRS 03- An On-Board accelerometer was included, which polled all the axes. The z-axis data was used to detect the deceleration of the rider, while other axes were used to detect theft in lock mode and fun mode to change the LED strip light(**Met**).
  
-
-
 https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/c87559a6-25c6-4372-be17-2f7c5e155280
-
-
 
 - Bluetooth Module:
   - HRS 04- We dropped installation of the Bluetooth module due to the limited time and effort required for developing mutex-protected UART communication and the requirement for a Mobile App(**Not Met**).
@@ -42,7 +40,8 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 - Indication LED System:
   - HRS 06- We decided to use a single LED strip and control the LEDs on the strip to indicate Left and right turns and brake(**Met**).
-  ![LED Strip](/images/Back%20with%20with%20Helmet.jpg)
+
+![LED Strip](/images/Back_with_with_Helmet.jpg)
 
 ### Software Requirements
 
@@ -76,59 +75,59 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 ### Final Project
 
-![Right Back](/images/Right%20Back%20view.jpg)
+![Right Back](/images/Right_Back_view.jpg)
 
 ![Back](/images/Back.jpg)
 
-![Side View](/images/Back%20with%20with%20Helmet.jpg)
+![Side View](/images/Back_with_with_Helmet.jpg)
 
-![Front View](/images/Front%20View%20Helmate.jpg)
+![Front View](/images/Front_View_Helmate.jpg)
 
 ### PCBA
 
-![Top](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Front_Circuit.jpg)
+![Top](/images/Front_Circuit.jpg)
 
-![Bottom](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Circuit_Bottom.jpg)
+![Bottom](/images/Circuit_Bottom.jpg)
 
 ### Thermal Image
 
-![Thermal](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/5V_1300mA_Load.jpeg)
+![Thermal](/images/5V_1300mA_Load.jpeg)
 
-![Thermal 1](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Thermal.jpeg)
+![Thermal 1](/images/Thermal.jpeg)
 
 ### Altium 2D View
 
-![Top](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/2D%20View%20Top.png)
+![Top](/images/2D_View_Top.png)
 
-![Bottom](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/2D%20View%20Bottom.png)
+![Bottom](/images/2D_View_Bottom.png)
 
 ### Altium 3D View
 
-![Top](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/3D%20View%20Top.png)
+![Top](/images/3D_View_Top.png)
 
-![Bottom](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/3D%20View%20Bottom.png)
+![Bottom](/images/3D_View_Bottom.png)
 
 ### Node-Red Dashboard
 
-![Dashboard](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Helmate.png)
+![Dashboard](/images/Helmate.png)
 
 ### Node-Red Backend
 
-![First](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Navigation_Mode_Nodered.png)
+![First](/images/Navigation_Mode_Nodered.png)
 
-![Second](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Firmware%20Acc%20NodeRed.png)
+![Second](/images/Firmware_Acc_NodeRed.png)
 
-![Third](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Lock%20ALert%20and%20Obstacle%20Node_Red.png)
+![Third](/images/Lock_ALert_and_Obstacle_Node_Red.png)
 
 ### Block Diagram
 
 #### Simple
 
-![Simple](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/simple_block_diagram_updated.png)
+![Simple](/images/simple_block_diagram_updated.png)
 
 #### Detailed
 
-![Detailed](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/detailed_block_diagram_updated.png)
+![Detailed](/images/detailed_block_diagram_updated.png)
 
 ### Inside Detkin Lab
 
@@ -142,6 +141,6 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 **3D printed object courtesy of the University of Pennsylvania Libraries' Holman Biotech Commons**
 
-![3D Model](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/3D%20model.jpeg)
+![3D Model](/images/3D_model.jpeg)
 
-![3d Modeling](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/3dModel.jpg)
+![3d Modeling](/images/3dModel.jpg)
