@@ -91,9 +91,9 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 ### Thermal Image
 
-![Thermal](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/5V_1300mA_Load.jpeg)
+![Thermal](/images/5V_1300mA_Load.jpeg)
 
-![Thermal 1](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Thermal.jpeg)
+![Thermal 1](/images/Thermal.jpeg)
 
 ### Altium 2D View
 
@@ -109,7 +109,7 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 ### Node-Red Dashboard
 
-![Dashboard](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Helmate.png)
+![Dashboard](/images/Helmate.png)
 
 ### Node-Red Backend
 
@@ -143,4 +143,4 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 ![3D Model](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/3D%20model.jpeg)
 
-![3d Modeling](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/3dModel.jpg)
+![3d Modeling](/images/3dModel.jpg)
