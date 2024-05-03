@@ -103,3 +103,57 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 
 ## 4. Project Photos & Screenshots
+
+### Final Project
+
+![Right Back](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Right%20Back%20view.jpg)
+
+![Back](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Back.jpg)
+
+![Side View](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Back%20with%20with%20Helmet.jpg)
+
+![Front View](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Front%20View%20Helmate.jpg)
+
+### PCBA
+
+![Top]()
+
+![Bottom]()
+
+### Thermal Image
+
+![Thermal]()
+
+### Altium 2D View
+
+![Top]()
+
+![Bottom]()
+
+### Altium 3D View
+
+![Top]()
+
+![Bottom]()
+
+### Node-Red Dashboard
+
+![Dashboard]()
+
+### Node-Red Backend
+
+![First]()
+
+![Second]()
+
+![Third]()
+
+### Block Diagram
+
+#### Simple
+
+![Simple]()
+
+#### Detailed
+
+![Detailed]()
