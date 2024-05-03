@@ -33,6 +33,7 @@
 
   - HRS 03- An On-Board accelerometer was included, which polled all the axes. The z-axis data was used to detect the deceleration of the rider, while other axes were used to detect theft in lock mode and fun mode to change the LED strip light(**Met**).
 
+https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/57eadb7c-09f6-4b4c-99be-9184fafd9fe6
 
 - Bluetooth Module:
 
@@ -92,14 +93,72 @@
 
     - We detected deceleration instead of stopping
 
-
-
-https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/57eadb7c-09f6-4b4c-99be-9184fafd9fe6
-
-
-
 https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/eb0d89f8-6c4c-473c-ad8d-e57339b75fd6
 
-
-
 ## 4. Project Photos & Screenshots
+
+### Final Project
+
+![Right Back](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Right%20Back%20view.jpg)
+
+![Back](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Back.jpg)
+
+![Side View](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Back%20with%20with%20Helmet.jpg)
+
+![Front View](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Front%20View%20Helmate.jpg)
+
+### PCBA
+
+![Top](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Front_Circuit.jpg)
+
+![Bottom](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Circuit_Bottom.jpg)
+
+### Thermal Image
+
+![Thermal](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/5V_1300mA_Load.jpeg)
+
+![Thermal 1](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Thermal.jpeg)
+
+### Altium 2D View
+
+![Top](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/2D%20View%20Top.png)
+
+![Bottom](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/2D%20View%20Bottom.png)
+
+### Altium 3D View
+
+![Top](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/3D%20View%20Top.png)
+
+![Bottom](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/3D%20View%20Bottom.png)
+
+### Node-Red Dashboard
+
+![Dashboard](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Helmate.png)
+
+### Node-Red Backend
+
+![First](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Navigation_Mode_Nodered.png)
+
+![Second](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Firmware%20Acc%20NodeRed.png)
+
+![Third](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Lock%20ALert%20and%20Obstacle%20Node_Red.png)
+
+### Block Diagram
+
+#### Simple
+
+![Simple](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/simple_block_diagram_updated.png)
+
+#### Detailed
+
+![Detailed](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/detailed_block_diagram_updated.png)
+
+### Inside Detkin Lab
+
+https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/f91eb674-2004-40d3-aa62-ca26d857cfa0
+
+### 3D Model
+
+**3D printed object courtesy of the University of Pennsylvania Libraries' Holman Biotech Commons**
+
+![3D Model](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/3D%20model.jpeg)
