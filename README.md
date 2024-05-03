@@ -32,6 +32,10 @@
  
 https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/c87559a6-25c6-4372-be17-2f7c5e155280
 
+<video controls>
+  <source src="/images/braking.mp4" type="video/mp4">
+</video>
+
 - Bluetooth Module:
   - HRS 04- We dropped installation of the Bluetooth module due to the limited time and effort required for developing mutex-protected UART communication and the requirement for a Mobile App(**Not Met**).
 
