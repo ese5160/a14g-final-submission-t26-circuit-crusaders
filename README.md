@@ -85,9 +85,9 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 ### PCBA
 
-![Top](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Front_Circuit.jpg)
+![Top](/images/Front_Circuit.jpg)
 
-![Bottom](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/Circuit_Bottom.jpg)
+![Bottom](/images/Circuit_Bottom.jpg)
 
 ### Thermal Image
 
