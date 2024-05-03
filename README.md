@@ -30,7 +30,7 @@
 - Accelerometer System:
   - HRS 03- An On-Board accelerometer was included, which polled all the axes. The z-axis data was used to detect the deceleration of the rider, while other axes were used to detect theft in lock mode and fun mode to change the LED strip light(**Met**).
  
-https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/c87559a6-25c6-4372-be17-2f7c5e155280
+
 
 <video controls>
   <source src="/images/braking.mp4" type="video/mp4">
