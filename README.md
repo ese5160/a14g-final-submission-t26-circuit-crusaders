@@ -91,7 +91,7 @@
 
 ### Altium 2D View
 
-![Top](/images/2D%20View%20Top.png)
+![Top](images/2D View Bottom.png)
 
 ![Bottom](/images/2D%20View%20Bottom.png)
 
