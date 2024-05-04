@@ -73,6 +73,8 @@ Video Link: [Link](https://youtube.com/shorts/Ix-Mj10pwsU?feature=share)
  
 https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/da8a2328-48fe-4e5c-a39c-3381b75492b9
 
+Video Link: [Link](https://youtube.com/shorts/1kmSFqXPsI8)
+
 ## 4. Project Photos & Screenshots
 
 ### Final Project
@@ -137,7 +139,7 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/93ad38d4-b419-4345-8826-6e7573682023
 
-
+Video Link: [Link](https://youtube.com/shorts/DgQOB6zYiG8?feature=share)
 
 ### 3D Model
 
