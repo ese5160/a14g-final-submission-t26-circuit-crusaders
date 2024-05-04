@@ -17,7 +17,7 @@
     
       The HelMate project is designed to significantly enhance safety for two-wheeler riders by encouraging consistent helmet use. The device can be attached or detached from any helmet and connects to the rider's mobile phone via Bluetooth to deliver navigational directions through haptic feedback motors on both sides of the helmet. It also features automatic or manual turn signals visible to following vehicles, enhancing communication and safety on the road.
 
-      Additionally, the helmet is equipped with a brake light that activates when the rider stops and deactivates when in motion, thanks to an onboard accelerometer that detects changes in movement. This system not only signals stopping but also aids in crash detection by sensing sudden movements, potentially mitigating severe accidents.
+      Additionally, the helmet is equipped with a brake light that activates when the rider stops and deactivates when in motion, thanks to an onboard accelerometer that detects changes in movement.
 
       For security, the helmet detects unusual movements to trigger alerts for potential theft of the helmet or bike. It also includes a Blind Spot Monitoring System with IR-based sensors to detect objects outside the rider’s direct line of sight, reducing the risk of accidents with unseen vehicles or obstacles.
 
