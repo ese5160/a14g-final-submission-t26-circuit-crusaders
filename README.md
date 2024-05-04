@@ -13,6 +13,34 @@
 
 ## 2. Project Summary
 
+- Device Description
+
+- Inspiration
+
+- Device Functionality
+
+- Challenges
+
+- Prototype Learnings
+
+- Next Steps
+
+- Takeaways from ESE5160
+
+- Project Links
+
+### Node-Red
+
+[Node-Red Dashboard](http://172.191.242.245:1880/ui/#!/2?socketid=1truOzmLad0T8MJnAAAB)
+
+### CodeBase
+
+[CodeBase](https://github.com/ese5160/a12g-firmware-drivers-t26-circuit-crusaders)
+
+### Altium Files
+
+[Altium Project](https://upenn-eselabs.365.altium.com/designs/114505C5-8A92-40C3-9C26-AFBB1F629568#design)
+
 ## 3. Hardware & Software Requirements
 
 ### Hardware Requirements
@@ -134,8 +162,6 @@ Video Link: [Link](https://youtube.com/shorts/1kmSFqXPsI8)
 ![Detailed](/images/detailed_block_diagram_updated.png)
 
 ### Inside Detkin Lab
-
-
 
 https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/93ad38d4-b419-4345-8826-6e7573682023
 
