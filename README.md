@@ -12,6 +12,39 @@
 ## 1. Video Presentation
 
 ## 2. Project Summary
++ Device Description:
+  +  What problem is your device solving?
+    
+      The HelMate project is designed to significantly enhance safety for two-wheeler riders by encouraging consistent helmet use. The device can be attached or detached from any helmet and connects to the rider's mobile phone via Bluetooth to deliver navigational directions through haptic feedback motors on both sides of the helmet. It also features automatic or manual turn signals visible to following vehicles, enhancing communication and safety on the road.
+
+      Additionally, the helmet is equipped with a brake light that activates when the rider stops and deactivates when in motion, thanks to an onboard accelerometer that detects changes in movement. This system not only signals stopping but also aids in crash detection by sensing sudden movements, potentially mitigating severe accidents.
+
+      For security, the helmet detects unusual movements to trigger alerts for potential theft of the helmet or bike. It also includes a Blind Spot Monitoring System with IR-based sensors to detect objects outside the rider’s direct line of sight, reducing the risk of accidents with unseen vehicles or obstacles.
+
+      Riders can control and customize the helmet’s features, such as theft detection, turn signals, and brake lights, through a centralized dashboard. This dashboard also displays vital information including theft alerts, accelerometer data, and crash detection notifications.
+  + How do you use the Internet so augment your device functionality?
+      
+      Real-Time Data Processing and Accessibility: Using Node-RED hosted on an Azure VM allows for the efficient processing and management of real-time data from the helmet. This setup ensures that data such as navigation directions, motion alerts, and crash or theft-detection data are handled promptly and reliably. This allows users to interact with their helmet or check its status from anywhere.
+
+      User Interface and Interaction: A Node-RED dashboard provides a user-friendly interface for riders to monitor various metrics like battery status, theft alerts, and navigation signals. This dashboard is accessible via the Internet, which offers convenience and ease of use. The system can send alerts and notifications directly to the rider's smartphone.
+
+      Firmware and Software Updates: Through the Internet, updates to the helmet’s software or firmware can be pushed remotely, so that all users have the latest features and security updates without needing physical access to a service center.
+
++ Inspiration:
+  
+  The inspiration for "HelMate" came from Saurabh's personal experiences while biking an impressive 10,000 kilometers during his internship in California. Saurabh encountered many challenges, such as navigating busy roads while maintaining focus, dealing with visibility issues during night rides, and the constant threat of accidents due to blind spots and sudden stops. These experiences highlighted a significant need for enhanced safety measures for bikers. Meanwhile, Binh noted that modern cars are equipped with advanced safety features like navigation assistance, blind spot detection that significantly reduce the risk of accidents but are conspicuously absent in motorcycle gear. 
+  
+  Realizing that such features are not applied to two-wheeler vehicles, we were motivated to bridge the gap in safety features between cars and two-wheeler vehicles. This led to the creation of "HelMate," a device designed to bring sophisticated safety and navigation features to two-wheelers, this probably can enhance rider safety and confidence on the road.
+
++ Device Functionality:
+  
+  The "HelMate" smart helmet device is ingeniously designed to enhance safety for motorcyclists and bicyclists through integrated technology and Internet connectivity. Central to its operation is a microcontroller that processes inputs from various sensors and controls the helmet's functions. It features a 3-axis accelerometer for detecting sudden stops or crashes, and IR sensors to monitor blind spots. Actuators in the helmet include haptic feedback motors that provide navigational cues through subtle vibrations, and LED lights that function as turn signals and a brake light to enhance visibility on the road. The helmet connects to the Internet via Wi-Fi, allowing it to access cloud services hosted on an Azure Virtual Machine. This connectivity supports real-time traffic updates, navigation assistance, and the ability to transmit critical data for emergency services. Node-Red serves as the user interface, this will enable riders to customize settings, receive alerts, and view helmet status. This layered design, encompassing sensory data collection, processing, and interactive connectivity, positions "HelMate" as a transformative safety device in the two-wheeler landscape.
+
++ Challenges:
+
+
+
+
 
 ## 3. Hardware & Software Requirements
 
