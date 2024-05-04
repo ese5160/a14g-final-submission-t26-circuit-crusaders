@@ -41,21 +41,26 @@
   
   The "HelMate" smart helmet device is ingeniously designed to enhance safety for motorcyclists and bicyclists through integrated technology and Internet connectivity. Central to its operation is a microcontroller that processes inputs from various sensors and controls the helmet's functions. It features a 3-axis accelerometer for detecting sudden stops or crashes, and IR sensors to monitor blind spots. Actuators in the helmet include haptic feedback motors that provide navigational cues through subtle vibrations, and LED lights that function as turn signals and a brake light to enhance visibility on the road. The helmet connects to the Internet via Wi-Fi, allowing it to access cloud services hosted on an Azure Virtual Machine. This connectivity supports real-time traffic updates, navigation assistance, and the ability to transmit critical data for emergency services. Node-Red serves as the user interface, this will enable riders to customize settings, receive alerts, and view helmet status. This layered design, encompassing sensory data collection, processing, and interactive connectivity, positions "HelMate" as a transformative safety device in the two-wheeler landscape.
 
+  + Block diagram:
+   
+  ![Device Block Diagram](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/detailed_block_diagram_updated.png)
+
+
 + ### Challenges:
  
   1. #### I2C Bus Management and Driver Development:
   + Problem was about managing two different I2C buses, I2C1 (SERCOM3) for controlling the LED strip, and I2C2 (SERCOM0) for managing the haptic feedback motors and the accelerometer. The primary issue was to prevent bus contention and ensure smooth communication.
   + Solution:  we made a driver such that a single mutex is used to control either of the busses, hence only one transaction happens and it does not cause contention on Mutex.
    
-  2. #### Faulty Accelerometer Driver: 
+  1. #### Faulty Accelerometer Driver: 
   + Problem: During the debugging phase, we discovered that the driver provided by the accelerometer manufacturer was flawed, which caused incorrect data readings
   + Solution: By reviewing the accelerometer's datasheet, we identified the discrepancies between the expected and actual driver behavior. So we then modified the driver accordingly, which resolved the data accuracy issues.
    
-  3. #### Memory Management for Tasks:
+  1. #### Memory Management for Tasks:
   + Problem: There were separate tasks, which were assigned to manage different functionalities. This led to inefficient memory usage and increased system complexity. And we ran out of Memory!
   + Solution: we optimized memory usage by combining multiple tasks into two main tasks, which are more efficient task structures. This not only simplified the firmware architecture but also improved the overall performance and stability of the system.
    
-  4. #### Component Fitting in 3D Helmet Model:
+  1. #### Component Fitting in 3D Helmet Model:
   + Problem: Our initial 3D printed helmet model did not correctly accommodate the PCB and the sensors, and there were unexpected issues with internal wiring layouts and paths.
   + Solution:  we revised the internal design and printed two different 3D models to test various component arrangements and wiring configurations. This also ensured that the all parts fit perfectly and functioned as intended.
 
