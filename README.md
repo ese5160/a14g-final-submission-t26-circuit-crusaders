@@ -33,7 +33,7 @@
 
 + ### Inspiration:
   
-  The inspiration for "HelMate" came from Saurabh's personal experiences while biking an impressive 10,000 kilometers during his internship in California. Saurabh encountered many challenges, such as navigating busy roads while maintaining focus, dealing with visibility issues during night rides, and the constant threat of accidents due to blind spots and sudden stops. These experiences highlighted a significant need for enhanced safety measures for bikers. Meanwhile, Binh noted that modern cars are equipped with advanced safety features like navigation assistance, blind spot detection that significantly reduce the risk of accidents but are conspicuously absent in motorcycle gear. 
+  The inspiration for "HelMate" came from Saurabh's personal experiences while biking an impressive 900 miles during his internship in California. Saurabh encountered many challenges, such as navigating busy roads while maintaining focus, dealing with visibility issues during night rides, and the constant threat of accidents due to blind spots and sudden stops. These experiences highlighted a significant need for enhanced safety measures for bikers. Meanwhile, Binh noted that modern cars are equipped with advanced safety features like navigation assistance and blind spot detection that significantly reduce the risk of accidents but are conspicuously absent in motorcycle gear. 
   
   Realizing that such features are not applied to two-wheeler vehicles, we were motivated to bridge the gap in safety features between cars and two-wheeler vehicles. This led to the creation of "HelMate," a device designed to bring sophisticated safety and navigation features to two-wheelers, this probably can enhance rider safety and confidence on the road.
 
