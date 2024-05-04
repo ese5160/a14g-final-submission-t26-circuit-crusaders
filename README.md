@@ -5,6 +5,7 @@
 * Team Name: Circuit Crusaders
 * Team Members: Saurabh Parulekar, Binh Nguyen
 * Github Repository URL: [Circuit Crusaders Repository](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders)
+* Github Pages URL: [Helmate Public GitHub Page](https://ese5160.github.io/a14g-final-submission-t26-circuit-crusaders/)
 * Description of test hardware:
   1. HP Pavilion Windows Gaming laptop, 15" 8GB i5
   2. Apple M2 Pro - Macbook
@@ -83,17 +84,17 @@
 
 The ESE5160 course provided a comprehensive journey through the product development cycle, from initial concept to finalized prototype. Lectures and assignments were instrumental in detailing each stage of the process, emphasizing practical skills in PCB design with Altium, firmware programming, hardware and software testing, debugging, driver development, and 3D modeling for case construction. This holistic approach not only demonstrated the technical intricacies involved in creating a functional electronic device, but the course also offered a broad perspective on industry standards and practices. The experience has been pivotal in understanding how theoretical knowledge applies in real-world scenarios. Ultimately, this prepares us for professional challenges in electronics systems and firmware engineering.
 
-+ Project Links
+### Project Links
 
-### Node-Red
+#### Node-Red
 
 [Node-Red Dashboard](http://172.191.242.245:1880/ui/#!/2?socketid=1truOzmLad0T8MJnAAAB)
 
-### CodeBase
+#### CodeBase
 
 [CodeBase](https://github.com/ese5160/a12g-firmware-drivers-t26-circuit-crusaders)
 
-### Altium Files
+#### Altium Files
 
 [Altium Project](https://upenn-eselabs.365.altium.com/designs/114505C5-8A92-40C3-9C26-AFBB1F629568#design)
 
