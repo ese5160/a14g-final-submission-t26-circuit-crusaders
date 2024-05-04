@@ -27,7 +27,7 @@
       
       Real-Time Data Processing and Accessibility: Using Node-RED hosted on an Azure VM allows for the efficient processing and management of real-time data from the helmet. This setup ensures that data such as navigation directions, motion alerts, and crash or theft-detection data are handled promptly and reliably. This allows users to interact with their helmet or check its status from anywhere.
 
-      User Interface and Interaction: A Node-RED dashboard provides a user-friendly interface for riders to monitor various metrics like battery status, theft alerts, and navigation signals. This dashboard is accessible via the Internet, which offers convenience and ease of use. The system can send alerts and notifications directly to the rider's smartphone.
+      User Interface and Interaction: A Node-RED dashboard provides a user-friendly interface for riders to monitor various metrics like theft alerts, navigation signals, current mode, and obstacle sensor status. This dashboard is accessible via the Internet, which offers convenience and ease of use. The system can send alerts and notifications directly to the rider's smartphone.
 
       Firmware and Software Updates: Through the Internet, updates to the helmet’s software or firmware can be pushed remotely, so that all users have the latest features and security updates without needing physical access to a service center.
 
