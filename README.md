@@ -21,7 +21,7 @@
 
       For security, the helmet detects unusual movements to trigger alerts for potential theft of the helmet or bike. It also includes a Blind Spot Monitoring System with IR-based sensors to detect objects outside the rider’s direct line of sight, reducing the risk of accidents with unseen vehicles or obstacles.
 
-      Riders can control and customize the helmet’s features, such as theft detection, turn signals, and brake lights, through a centralized dashboard. This dashboard also displays vital information including theft alerts, accelerometer data, and crash detection notifications.
+      Riders can control and customize the helmet’s features, such as theft detection, turn signals, and brake lights, through a centralized dashboard. This dashboard also displays vital information including theft alerts, accelerometer data.
 
   + #### How do you use the Internet so augment your device functionality?
       
