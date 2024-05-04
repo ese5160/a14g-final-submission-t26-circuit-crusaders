@@ -11,6 +11,8 @@
 
 ## 1. Video Presentation
 
+[Video Presentation Link](https://youtu.be/NW04OR87V9s)
+
 ## 2. Project Summary
 
 ## 3. Hardware & Software Requirements
