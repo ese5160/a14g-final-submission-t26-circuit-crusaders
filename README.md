@@ -127,13 +127,7 @@ Video Link: [Link](https://youtube.com/shorts/1kmSFqXPsI8)
 
 ### Block Diagram
 
-#### Simple
-
 ![Simple](/images/simple_block_diagram_updated.png)
-
-#### Detailed
-
-![Detailed](/images/detailed_block_diagram_updated.png)
 
 ### Inside Detkin Lab
 
