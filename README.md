@@ -41,10 +41,9 @@
   
   The "HelMate" smart helmet device is ingeniously designed to enhance safety for motorcyclists and bicyclists through integrated technology and Internet connectivity. Central to its operation is a microcontroller that processes inputs from various sensors and controls the helmet's functions. It features a 3-axis accelerometer for detecting sudden stops or crashes, and IR sensors to monitor blind spots. Actuators in the helmet include haptic feedback motors that provide navigational cues through subtle vibrations, and LED lights that function as turn signals and a brake light to enhance visibility on the road. The helmet connects to the Internet via Wi-Fi, allowing it to access cloud services hosted on an Azure Virtual Machine. This connectivity supports real-time traffic updates, navigation assistance, and the ability to transmit critical data for emergency services. Node-Red serves as the user interface, this will enable riders to customize settings, receive alerts, and view helmet status. This layered design, encompassing sensory data collection, processing, and interactive connectivity, positions "HelMate" as a transformative safety device in the two-wheeler landscape.
 
-  + Block diagram:
+  + #### Block diagram:
    
   ![Device Block Diagram](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/detailed_block_diagram_updated.png)
-
 
 + ### Challenges:
  
