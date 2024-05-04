@@ -34,6 +34,8 @@
  
 https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/c87559a6-25c6-4372-be17-2f7c5e155280
 
+Video Link: [Link](https://youtube.com/shorts/Ix-Mj10pwsU?feature=share)
+
 - Bluetooth Module:
   - HRS 04- We dropped installation of the Bluetooth module due to the limited time and effort required for developing mutex-protected UART communication and the requirement for a Mobile App(**Not Met**).
 
@@ -72,6 +74,8 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
   - SRS 12 - The system shall blink the brake LED strip when the rider is stationary and turn solid when in motion. stationary and motion states will be determined via the accelerometer(**Met**).
  
 https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/da8a2328-48fe-4e5c-a39c-3381b75492b9
+
+Video Link: [Link](https://youtube.com/shorts/1kmSFqXPsI8)
 
 ## 4. Project Photos & Screenshots
 
@@ -133,11 +137,9 @@ https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57
 
 ### Inside Detkin Lab
 
-
-
 https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/93ad38d4-b419-4345-8826-6e7573682023
 
-
+Video Link: [Link](https://youtube.com/shorts/DgQOB6zYiG8?feature=share)
 
 ### 3D Model
 
