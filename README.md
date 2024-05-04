@@ -32,7 +32,7 @@
  
 https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/assets/57740824/c87559a6-25c6-4372-be17-2f7c5e155280
 
-<iframe width="800" height="500" src="https://youtube.com/shorts/Ix-Mj10pwsU?feature=share" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://youtube.com/shorts/Ix-Mj10pwsU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 - Bluetooth Module:
