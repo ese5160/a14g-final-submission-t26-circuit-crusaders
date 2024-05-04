@@ -45,7 +45,7 @@
 
   + #### Block diagram:
    
-  ![Device Block Diagram](https://github.com/ese5160/a14g-final-submission-t26-circuit-crusaders/blob/main/images/detailed_block_diagram_updated.png)
+  ![Device Block Diagram](/images/detailed_block_diagram_updated.png)
 
 + ### Challenges:
  
